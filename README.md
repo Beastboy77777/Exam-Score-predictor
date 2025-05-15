@@ -17,7 +17,7 @@ This project uses Machine Learning Regression to predict exam scores based on st
 ## 🖥 Run Instructions
 1. Install dependencies:  
   
-   pip install pandas numpy scikit-learn seaborn
+   pip install pandas numpy scikit-learn seaborn matplotlib plotly
    
 2. Open the .ipynb file in Google Colab or Jupyter Notebook.
 3. Run the notebook to train and evaluate the model.
